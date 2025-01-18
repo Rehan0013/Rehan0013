@@ -39,6 +39,7 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-262626?style=flat-square&logo=Clerk&logoColor=white)
 ![Convex](https://img.shields.io/badge/-Convex-00CFA1?style=flat-square&logo=Convex&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 ## Projects
 
