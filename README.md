@@ -7,7 +7,7 @@
 - 👨‍💻 I’m a passionate developer with a keen interest in learning new technologies and solving problems.
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 💬 Ask me about web development and Python.
-- 📫 How to reach me: [Email](mailto:rehanali09742@gmail.com) | [LinkedIn](www.linkedin.com/in/rehan-ali-85a914280)
+- 📫 How to reach me: [Email](mailto:rehanali09742@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rehan-ali-85a914280)
 - ⚡ Fun fact: I love playing chess and exploring new places.
 
 ## GitHub Stats
