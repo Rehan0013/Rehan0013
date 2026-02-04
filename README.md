@@ -16,11 +16,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehan0013&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan0013&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rehan0013&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Rehan0013&theme=radical&hide_border=true" height="170"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
